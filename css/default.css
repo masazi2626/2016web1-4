@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-  background-color:#fbf9cc;
+  background-color:#000077;
 }
 h1{
   font-size:1.75em;
@@ -12,6 +12,6 @@ h2{
   color:#000000;
 }
 p{
-  font-size:0.8em;
+  font-size:1.0em;
   color:#333333;
 }
