@@ -7,9 +7,14 @@ h1{
   font-size:1.75em;
   color:#3399cc;
 }
-h2{
+h1 span{
+  font-size:1.75em;
+  color:#ffffff;
+}
+#lead{
   font-size:1.25em;
   color:#000000;
+  text-align:center;
 }
 p{
   font-size:1.0em;
