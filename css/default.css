@@ -1,1 +1,17 @@
+@charset "UTF-8";
 
+body{
+  background-color:#fbf9cc;
+}
+h1{
+  font-size:1.75em;
+  color:#3399cc;
+}
+h2{
+  font-size:1.25em;
+  color:#ffffff;
+}
+p{
+  font-size:0.8em;
+  color:#333333;
+}
